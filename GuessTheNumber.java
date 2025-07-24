@@ -11,7 +11,6 @@ public class GuessTheNumber {
         int attempts = 0;
         String lastHint = "";
         int previousGuess = 0;
-        boolean scolded = false;
 
         System.out.println("Choose a number between 1 and 100 (inclusive).");
 
